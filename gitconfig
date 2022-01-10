@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = addwilkinson@hotmail.co.uk
+	name = Alex Wilkinson
